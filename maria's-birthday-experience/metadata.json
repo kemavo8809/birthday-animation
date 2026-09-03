@@ -1,6 +1,0 @@
-{
-  "name": "Maria's Birthday Experience",
-  "description": "A private, interactive digital birthday celebration and love story for Maria on September 4.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
